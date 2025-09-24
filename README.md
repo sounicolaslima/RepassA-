@@ -5,7 +5,7 @@ Projeto da disciplina de Programação Web da Universidade Federal de Lavras - U
 Este projeto foi desenvolvido como parte de um trabalho acadêmico da disciplina de Desenvolvimento Web com Django
 
 A aplicação escolhida foi o RepassAÍ, um sistema web para desapego e troca de itens usados. 
-O sistema possui frontend em React e backend em Django, permitindo que usuários publiquem anúncios, pesquisem itens, chat
+O sistema possui frontend em React e backend em Django, permitindo que usuários publiquem anúncios, pesquisem itens, chat, entre outros...
 
 ## Equipe:
   * Leandro Rodrigues de Paula Castro
